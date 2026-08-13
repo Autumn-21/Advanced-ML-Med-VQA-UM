@@ -83,7 +83,3 @@ pip install torch torchvision transformers datasets scikit-learn peft sacrebleu 
 - Compute constraints limited hyperparameter search, ablations, and multi-seed reporting.
 
 See [`Report.md`](Report.md) for the full method write-up and [`results_and_discussion.md`](results_and_discussion.md) for the complete results, discussion, and proposed next steps (answer-type-aware evaluation, synonym-aware scoring, calibration, human evaluation).
-
-## Author
-
-[Your Name]
