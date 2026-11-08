@@ -1,6 +1,13 @@
 # Medical Visual Question Answering on VQA-RAD: Discriminative Baseline vs. BLIP-2 VLM
 
-A comparative study of two approaches to Medical Visual Question Answering (Med-VQA): a **CNN+Transformer discriminative baseline** (ResNet50 + BERT) and a **parameter-efficient fine-tuned Vision-Language Model** (BLIP-2 + Flan-T5-XL with LoRA), evaluated on the [VQA-RAD](https://huggingface.co/datasets/flaviagiammarino/vqa-rad) dataset. Built as an Advanced Machine Learning project.
+A comparative study of two approaches to Medical Visual Question Answering (Med-VQA): a **CNN+Transformer discriminative baseline** (ResNet50 + BERT) and a **parameter-efficient fine-tuned Vision-Language Model** (BLIP-2 + Flan-T5-XL with LoRA), evaluated on the [VQA-RAD](https://huggingface.co/datasets/flaviagiammarino/vqa-rad) dataset. Built as an Advanced Machine Learning project by students of the Master of Artificial Intelligence programme at Universiti Malaya.
+
+## Team
+
+| Name | Programme | Institution |
+|---|---|---|
+| Raden Ahmad Faiz | Master of Artificial Intelligence | Universiti Malaya |
+| Pyae Sone Khant Aung (Junaid) | Master of Artificial Intelligence | Universiti Malaya |
 
 ## Problem
 
